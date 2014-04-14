@@ -1,0 +1,20 @@
+@charset "utf-8";  
+
+section {
+	margin: 20px 0px 20px 20px;
+}
+section hgroup {
+	margin: 0px 0px 0px -20px;
+}
+
+h2 {
+	margin: 0px 0px 10px 0px;
+	border-bottom : 1px dotted #ccc;
+	padding : 0px 0px 5px 5px;
+}
+h3 {
+	margin: 0px 0px 10px 0px;
+	padding : 5px 0 5px 15px;
+	background : #F5F5F5;
+	border-left : #090 8px solid;
+}
